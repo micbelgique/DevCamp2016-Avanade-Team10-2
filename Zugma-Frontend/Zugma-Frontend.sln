@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zugma-Frontend.CSharp", "Zugma-Frontend.CSharp.csproj", "{64A1D8E7-2E5C-F593-FB62-A71DDB41258E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64A1D8E7-2E5C-F593-FB62-A71DDB41258E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A1D8E7-2E5C-F593-FB62-A71DDB41258E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A1D8E7-2E5C-F593-FB62-A71DDB41258E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A1D8E7-2E5C-F593-FB62-A71DDB41258E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
